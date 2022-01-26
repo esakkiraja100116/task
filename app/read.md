@@ -16,3 +16,4 @@ _passwards are hashed using $salt (**data-base.php**)_
 _mail id must be in correct format_
 _any illegal characters are not alllowed_
 
+Before checking the code give your server details in app/_backend/config.php file

@@ -1,7 +1,8 @@
 <?
-$server_name = "mariadb.selfmade.ninja";
-$username = "esakkiraja";
-$password = "Esakkiraja@098";
+// Provide your server details here before start
+$server_name = "";
+$username = "";
+$password = "";
 $data_base_name = "esakkiraja_test";
 
 define("DB_HOST", $server_name);

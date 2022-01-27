@@ -16,7 +16,7 @@ _passwards are hashed using $salt (**data-base.php**)_ <br />
 _mail id must be in correct format_
 _any illegal characters are not alllowed_ <br />
 
-1.Before checking the code give your server details in **app/_backend/config.php** file.
-2.Create the database, name **esakkiraja_test**.
-3.Import **Users.sql** into database.
-4.Now, you can create,delete,update,edit using APIs.
+1.Before checking the code give your server details in **app/_backend/config.php** file. <br />
+2.Create the database, name **esakkiraja_test**. <br />
+3.Import **Users.sql** into database. <br />
+4.Now, you can create,delete,update,edit using APIs. <br />

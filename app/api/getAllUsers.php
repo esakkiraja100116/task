@@ -1,5 +1,5 @@
 
-<?
+<?php
 
 include_once "../_backend/process.class.php";
 

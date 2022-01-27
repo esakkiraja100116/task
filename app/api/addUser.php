@@ -1,4 +1,5 @@
-<?
+<?php
+
 include_once '../_backend/validate.class.php';
 include_once '../_backend/data-base.php';
 include_once '../_backend/process.class.php';

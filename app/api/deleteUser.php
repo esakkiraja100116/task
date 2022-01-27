@@ -1,4 +1,4 @@
-<?
+<?php
 
 include_once "../_backend/process.class.php";
 include_once "../_backend/validate.class.php";

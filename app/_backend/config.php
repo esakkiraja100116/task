@@ -1,9 +1,9 @@
-<?
+<?php
 // Provide your server details here before start
-$server_name = "";
-$username = "";
-$password = "";
-$data_base_name = "esakkiraja_test";
+$server_name = ""; // servername eg(localhost or ip)
+$username = ""; // username of the database
+$password = ""; // password 
+$data_base_name = "esakkiraja_test"; // database name
 
 define("DB_HOST", $server_name);
 define("DB_UNAME", $username);

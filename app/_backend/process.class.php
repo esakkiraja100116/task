@@ -1,4 +1,4 @@
-<?
+<?php
 include_once "data-base.php";
 
 class Users
